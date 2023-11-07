@@ -1,0 +1,15 @@
+E:\Parcial2_PCDH\Parcial2PCDH\ClnParcial2PCDH\bin\Debug\ClnParcial2PCDH.dll.config
+E:\Parcial2_PCDH\Parcial2PCDH\ClnParcial2PCDH\bin\Debug\ClnParcial2PCDH.dll
+E:\Parcial2_PCDH\Parcial2PCDH\ClnParcial2PCDH\bin\Debug\ClnParcial2PCDH.pdb
+E:\Parcial2_PCDH\Parcial2PCDH\ClnParcial2PCDH\bin\Debug\CadParcial2PCDH.dll
+E:\Parcial2_PCDH\Parcial2PCDH\ClnParcial2PCDH\bin\Debug\EntityFramework.dll
+E:\Parcial2_PCDH\Parcial2PCDH\ClnParcial2PCDH\bin\Debug\EntityFramework.SqlServer.dll
+E:\Parcial2_PCDH\Parcial2PCDH\ClnParcial2PCDH\bin\Debug\CadParcial2PCDH.pdb
+E:\Parcial2_PCDH\Parcial2PCDH\ClnParcial2PCDH\bin\Debug\CadParcial2PCDH.dll.config
+E:\Parcial2_PCDH\Parcial2PCDH\ClnParcial2PCDH\bin\Debug\EntityFramework.xml
+E:\Parcial2_PCDH\Parcial2PCDH\ClnParcial2PCDH\bin\Debug\EntityFramework.SqlServer.xml
+E:\Parcial2_PCDH\Parcial2PCDH\ClnParcial2PCDH\obj\Debug\ClnParcial2PCDH.csproj.AssemblyReference.cache
+E:\Parcial2_PCDH\Parcial2PCDH\ClnParcial2PCDH\obj\Debug\ClnParcial2PCDH.csproj.CoreCompileInputs.cache
+E:\Parcial2_PCDH\Parcial2PCDH\ClnParcial2PCDH\obj\Debug\ClnParcial2PCDH.csproj.CopyComplete
+E:\Parcial2_PCDH\Parcial2PCDH\ClnParcial2PCDH\obj\Debug\ClnParcial2PCDH.dll
+E:\Parcial2_PCDH\Parcial2PCDH\ClnParcial2PCDH\obj\Debug\ClnParcial2PCDH.pdb
